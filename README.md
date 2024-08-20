@@ -18,10 +18,11 @@ A website for practicing on coding typing speed
 
 https://fadel-rammal.github.io/coding-speed-practice/
 
+### Design it using Figma
 
 ![1](https://github.com/user-attachments/assets/07bf66ef-1586-466d-86d6-5cc269e79305)
 
-
+### Website
 ![2](https://github.com/user-attachments/assets/6f21bcc7-cf7a-4bc9-b82a-88854d971551)
 
 
